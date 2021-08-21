@@ -1,0 +1,33 @@
+(1)localhost:9090/rest/file-country
+Http Method:POST
+
+Response:
+{
+    "status": "1",
+    "message": "Uploaded Successfull",
+    "filepath": "C:\\Debadri_Project\\2021_Aug_21_11_27_11/excelfileCountry_1628403711974.xlsx"
+}
+
+
+(2)localhost:9090/rest/file-state
+Http Method:POST
+
+Response:
+{
+    "status": "1",
+    "message": "Uploaded Successfull",
+    "filepath": "C:\\Debadri_Project\\2021_Aug_21_11_29_26/excelfileState_1628403725961.xlsx"
+}
+
+
+
+(3)localhost:9090/rest/file-city
+Http Method:POST
+
+Response:
+{
+    "status": "1",
+    "message": "Uploaded Successfull",
+    "filepath": "C:\\Debadri_Project\\2021_Aug_21_11_31_23/excelfileCity_1628403748774.xlsx"
+}
+
